@@ -54,10 +54,6 @@ nav .menu{
         color: #FFFFFF;
         border: none;
         cursor: pointer;   
-        /* text-align: center; */
-        /* display: flex;
-        justify-items: center;
-        align-items: center; */
 
 }
 
@@ -65,7 +61,7 @@ nav button i {
     padding-left: 10px;
 }
 
-/* .container{
+.container{
     background: url(./assets/hero-bg.png);
     background-size: cover;
 }
@@ -148,7 +144,7 @@ nav button i {
     margin-right: 8px;
     text-align: center;
 
-} */
+}
 
 /* .about-container{
     background-color: #1A0B2E;
