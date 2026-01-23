@@ -54,6 +54,10 @@ nav .menu{
         color: #FFFFFF;
         border: none;
         cursor: pointer;   
+        /* text-align: center; */
+        /* display: flex;
+        justify-items: center;
+        align-items: center; */
 
 }
 
@@ -146,7 +150,7 @@ nav button i {
 
 }
 
-/* .about-container{
+.about-container{
     background-color: #1A0B2E;
     text-align: center;
     color: #FFFFFF;
@@ -178,9 +182,9 @@ nav button i {
 
 .podcast-items p{
     color: #FFFFFF;
-} */
+}
 
-/* .container{
+.container{
    background: rgba(35, 14, 61, 1);
    padding: 120px 200px;
 }
@@ -188,13 +192,12 @@ nav button i {
 .section-header{
     margin-top: 120px; 
     text-align: center;
-     width: 1200px;
-    height: 59px; 
+    width: 1200px;
+    height: 59px;
 }
 .section-header h2{
       font-size: 48px;
       font-weight: 700;
-      margin-bottom: 40px;
       color: #FFFFFF;
 }
 
@@ -202,6 +205,7 @@ nav button i {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 30px;
+    margin-top: 40px;
     color: #FFFFFF;
 }
 
@@ -267,7 +271,7 @@ nav button i {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-}  */
+}
 .footer-container{
     background: url(./assets/footer-bg.png);
     padding: 130px 595px 232px 595px;
